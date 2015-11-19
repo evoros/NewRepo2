@@ -1,3 +1,5 @@
 // stuff //
 
 hey, I added stuff here. And hopefully, commited via SVN client.
+
+Now I've updated this file and commited it via TortoiseGit.
